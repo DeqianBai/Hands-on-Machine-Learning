@@ -28,7 +28,9 @@
 如果你能够从绪论部分一直看到附录部分并做完这上面的示例代码，你的理论基础一定会扎实的不要不要的，而且知识体系会很系统
 
 ### 资源
+
 原书PDF下载：https://pan.baidu.com/s/19QX9JXfjlMMc37PdMD5Xtg
+
 原书代码：https://github.com/ageron/handson-ml
 
 ### 感谢
