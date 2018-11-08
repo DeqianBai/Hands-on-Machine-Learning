@@ -42,7 +42,7 @@
 原书代码：https://github.com/ageron/handson-ml
 
 ### 感谢
-- 感谢这本书的作者们，这是一本非常优秀的教材
+- 感谢[Aurelien Geron](https://github.com/ageron)，这是一本非常优秀的教材
 [Hands-on Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)
 - 感谢 Will Koehrsen，是他向我推荐了这本书
 
