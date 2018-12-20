@@ -45,7 +45,7 @@
 ### 联系我
 如果你有任何问题可以邮件联系我
 
-baideqian@hrbeu.edu.cn
+
 
 baideqian@foxmail.com
 
